@@ -1,4 +1,8 @@
+'''diff
+
 # kodluyoruzilkrepo in blue
+
+'''
 
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
