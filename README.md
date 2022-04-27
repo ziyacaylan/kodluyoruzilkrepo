@@ -1,14 +1,5 @@
-```diff
-
-# kodluyoruzilkrepo in blue
-
-```
-
-```diff
-- text in blue
-+ text in green
-! text in orange
-# text in gray
+```html
+# kodluyoruzilkrepo #F2D3D2
 ```
 
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
