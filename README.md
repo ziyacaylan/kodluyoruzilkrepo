@@ -8,7 +8,6 @@
 - Git temel komutlarını
 - proje clonlama ve pull işlemlerini
 
-![resim_1](/kodluyoruzilkrepo/Screenshot_1.jpg)
-![resim_2](/kodluyoruzilkrepo/Screenshot_2.jpg)
-![](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
+![resim_1](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
+![resim_2](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_2.jpg)
 
