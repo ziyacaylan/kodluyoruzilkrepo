@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo #F2D3D2
+# kodluyoruzilkrepo
 
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
