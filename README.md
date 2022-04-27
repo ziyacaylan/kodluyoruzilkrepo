@@ -4,6 +4,13 @@
 
 ```
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ### Neler Öğrendik
