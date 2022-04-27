@@ -10,3 +10,5 @@
 
 ![resim_1](/kodluyoruzilkrepo/Screenshot_1.jpg)
 ![resim_2](/kodluyoruzilkrepo/Screenshot_2.jpg)
+![](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
+
