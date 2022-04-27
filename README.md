@@ -1,6 +1,4 @@
-```html
 # kodluyoruzilkrepo #F2D3D2
-```
 
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
