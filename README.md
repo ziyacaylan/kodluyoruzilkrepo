@@ -15,12 +15,12 @@
 ## Git En Çok Kullanılan Temel Komutları
 
 - git init -- ilk kez proje oluşturuken kullandık
-- git add<file>
-  git add .(all)
-  git commit -m "açıklama"
-  git status
-  git diff
-  git checkout branchName
+- git add &#60;file&#62;
+- git add .(all)
+- git commit -m "açıklama"
+- git status
+- git diff
+- git checkout branchName
 
 ![resim_1](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
 ![resim_2](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_2.jpg)
