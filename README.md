@@ -25,5 +25,7 @@
 - git pull
 - git clone
 
+---
+
 ![resim_1](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
 ![resim_2](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_2.jpg)
