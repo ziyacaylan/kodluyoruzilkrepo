@@ -9,7 +9,18 @@
 - proje clonlama ve pull/push işlemlerini
 - git readme ile çalışma ve güzelleştirme
 - git için kaynaklar : [git-scm.com](https://git-scm.com/doc)
+
 ---
+
+## Git En Çok Kullanılan Temel Komutları
+
+- git init -- ilk kez proje oluşturuken kullandık
+- git add<file>
+  git add .(all)
+  git commit -m "açıklama"
+  git status
+  git diff
+  git checkout branchName
 
 ![resim_1](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_1.jpg)
 ![resim_2](https://github.com/ziyacaylan/kodluyoruzilkrepo/blob/main/Screenshot_2.jpg)
